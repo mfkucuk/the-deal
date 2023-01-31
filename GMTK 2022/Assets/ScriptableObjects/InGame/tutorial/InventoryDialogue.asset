@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c7fff57784c40543af92896a487b503, type: 3}
+  m_Name: InventoryDialogue
+  m_EditorClassIdentifier: 
+  sentences:
+  - This is your bag.
+  - You can add or remove items from the magic dice by dragging.
+  - You can check out your items by hovering over them.
+  - Also, you can't leave your bag if there any empty slots
+  - on any of the dice.
+  characterCounts: 0000000000000000000000000000000000000000
+  textWriteSpeeds: []
+  textAudios: []
+  textEffects: []
+  overWrites: []
+  sprites:
+  - {fileID: 1291079420, guid: 8c959dd99b1e439409cd169086594c4e, type: 3}
+  animators:
+  - {fileID: 9100000, guid: a20366af3c8072a4c954affd3a14474a, type: 2}
+  animatorStateNames: []
+  diffColorWordIndex: []
+  diffColor: []

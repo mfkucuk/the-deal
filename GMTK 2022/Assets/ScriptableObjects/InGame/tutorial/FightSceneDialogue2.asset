@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c7fff57784c40543af92896a487b503, type: 3}
+  m_Name: FightSceneDialogue2
+  m_EditorClassIdentifier: 
+  sentences:
+  - Try throwing your move die to get close to the enemy.
+  - By the way, if you're unsure of what the enemy is going to do
+  - you can hover over the enemy to see their behaviour.
+  - Blue tiles are where the enemy can move to.
+  - And, shaking marked tiles are where the enemy can attack.
+  - At the right, you can see your bones.
+  - Try not to turn into me for both of our sakes.
+  - Also, in some fights there will be a time limit.
+  - If the timer reaches zero, reinforcements will come
+  - and you'll be basically done for.
+  - Anyways, get close enough to the monster and try
+  - using your attack die.
+  characterCounts: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  textWriteSpeeds: []
+  textAudios: []
+  textEffects: []
+  overWrites: []
+  sprites:
+  - {fileID: 1291079420, guid: 8c959dd99b1e439409cd169086594c4e, type: 3}
+  - {fileID: 1746972046, guid: 8d260225fffbe8d45a41cc3cc00ae090, type: 3}
+  animators:
+  - {fileID: 9100000, guid: a20366af3c8072a4c954affd3a14474a, type: 2}
+  - {fileID: 9100000, guid: f8e75286972c9bb45983f52fbd71b8af, type: 2}
+  animatorStateNames: []
+  diffColorWordIndex: []
+  diffColor: []

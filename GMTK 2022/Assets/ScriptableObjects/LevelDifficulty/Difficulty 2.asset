@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81e0a24c01cd04582cc977e4e6f0f7, type: 3}
+  m_Name: Difficulty 2
+  m_EditorClassIdentifier: 
+  DifficultyLevel: 2
+  enemyPrefabs:
+  - {fileID: -1190737380254698348, guid: 2c9651bf1445b8e418228f7c5d5d6d47, type: 3}
+  - {fileID: -7008456278760188951, guid: c5502821e0df42d4f81406a7553dac6e, type: 3}
+  - {fileID: -5279094377529693817, guid: 1d6a28dd9f2ea404c8233b4c7dd7a361, type: 3}
+  - {fileID: 4637845396212998539, guid: 2e194b3c2b4987a47a9923b36e56bc53, type: 3}
+  - {fileID: -1587474910560617882, guid: 18c54e00c25b9c443a44ccef93525020, type: 3}
+  - {fileID: -3323169508191117208, guid: ff88dd4696de5fb45aa9d6e10615f1dd, type: 3}
+  - {fileID: 1833606171541391588, guid: 2d0f73105ff2f764ab4f2fc467263441, type: 3}
+  - {fileID: -6081757067817440270, guid: 8ec154bf5d9a39b4fae98e98b058ecd7, type: 3}
+  timer: 150
+  totalPointMin: 8
+  totalPointMax: 9
+  timerCanInfinty: 1

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c7fff57784c40543af92896a487b503, type: 3}
+  m_Name: inGame
+  m_EditorClassIdentifier: 
+  sentences:
+  - Aww, I didn't expect you.
+  - "\rYou are one of the rare winners of my bet."
+  - Great to see you as well.
+  - '   I have a request.'
+  - "\rI'm so tired of being immortal. Can you revert the roll of the dice?"
+  - "\rHAHAHA! Curses can't be undone you idiot!"
+  - While you've come this far, I'll give you a few tips so that you don't die.
+  - 'Listen well... '
+  - ...
+  characterCounts: 000000000000000001000000010000000100000000000000000000000000000001000000
+  textWriteSpeeds: []
+  textAudios: []
+  textEffects: []
+  overWrites: []
+  sprites:
+  - {fileID: -227516285, guid: 4b8eab0086a8fb24dad266d97993a636, type: 3}
+  - {fileID: -941445776, guid: 3a33989c368bd1e49bdb502127e2a216, type: 3}
+  animators:
+  - {fileID: 9100000, guid: fbc5543267c321f4b8047f1b578cef25, type: 2}
+  - {fileID: 9100000, guid: 09c4432e1daa68346bebab6418f061b4, type: 2}
+  animatorStateNames: []
+  diffColorWordIndex: []
+  diffColor: []

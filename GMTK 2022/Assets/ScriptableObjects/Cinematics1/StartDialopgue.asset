@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f7d5186e9d93614ebe9d98e434783fa, type: 3}
+  m_Name: StartDialopgue
+  m_EditorClassIdentifier: 
+  sentences:
+  - Hello, stranger.
+  - 'Hello? Who are you? '
+  - That's not important. I am here to make a deal.
+  - Rules are simple. This dice has 2 sides, one of them KILL you, other one will
+    make you immortal.
+  - Immortality, huh? What the hell, I will do it.
+  - ...
+  - ...
+  - Dice coming Infinity...
+  - I am cursed with Immortality.
+  characterCounts: 000000000000000000000000000000000000000000000000000000000000000000000000
+  textWriteSpeeds:
+  - id: 8
+    textWriteSpeed: 0.3
+  textAudios: []
+  textEffects: []
+  overWrites: []
+  animators:
+  - {fileID: 9100000, guid: 20797c05ec15a7d45930c8a4d7434ad8, type: 2}
+  animatorStateNames:
+  - id: 0
+    animationStateName: anim1
+  - id: 1
+    animationStateName: anim2
+  - id: 2
+    animationStateName: anim3
+  - id: 3
+    animationStateName: anim10
+  - id: 4
+    animationStateName: anim4
+  - id: 5
+    animationStateName: anim5
+  - id: 6
+    animationStateName: anim6
+  - id: 7
+    animationStateName: anim7
+  - id: 8
+    animationStateName: anim8
+  diffColorWordIndex:
+  - id: 2
+    diffColorWordIndex: 9
+  - id: 3
+    diffColorWordIndex: 11
+  - id: 8
+    diffColorWordIndex: 4
+  diffColor:
+  - id: 2
+    diffColor: {r: 0.078431375, g: 0.4117647, b: 0.78431374, a: 1}
+  - id: 3
+    diffColor: {r: 0.078431375, g: 0.4117647, b: 0.78431374, a: 1}
+  - id: 8
+    diffColor: {r: 0.078431375, g: 0.4117647, b: 0.78431374, a: 1}

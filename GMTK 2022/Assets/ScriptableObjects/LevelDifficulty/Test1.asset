@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb81e0a24c01cd04582cc977e4e6f0f7, type: 3}
+  m_Name: Test1
+  m_EditorClassIdentifier: 
+  DifficultyLevel: 4
+  enemyPrefabs:
+  - {fileID: 2626524720828290496, guid: 3f7eaab946f09af4680f045ad6005411, type: 3}
+  - {fileID: 4342301493509029955, guid: 15c53ad7e0294f54fa612a07f0d697d7, type: 3}
+  - {fileID: -1031440051412984631, guid: d57a672ecf60a594ab3a3d3b8019082b, type: 3}
+  timer: 300
+  totalPointMin: 12
+  totalPointMax: 13
+  timerCanInfinty: 1

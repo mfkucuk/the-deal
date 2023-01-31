@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c7fff57784c40543af92896a487b503, type: 3}
+  m_Name: SecondEncounter 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - Hey wait, are you really gonna leave me here after all I said?
+  - We need to cooperate if you want to stay alive.
+  - And I get to move around by helping you.
+  - Not a bad deal, eh?
+  - Hmm...
+  - I would be the bad guy if I leave you here now.
+  - I guess I will carry you around for now.
+  - Sweet! Let's start with the basics.
+  - Bones on the top-left of the screen show you,
+  - Well, how many bones you have left. If it reaches zero,
+  - then you will end up being a skull like me.
+  - Bag on the bottom-left allows you to access your items.
+  - It seems like you brought some items, that's good.
+  - I stored them in magic dice.
+  - So that you can use them during fighting.
+  - Die on the bottom-right will allow you to move around.
+  - Value on the die determines how much you can walk.
+  - Number on your head is the remaining moves you have left.
+  - And, the number on the top-right tells you how close you are
+  - to monsters.
+  - If it reaches zero, you will be forced to fight them.
+  - That's all I got for now.
+  - I'll tell you more as we move on.
+  - Thanks! That's a big help.
+  characterCounts: 000000000000000000000000000000000100000001000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000
+  textWriteSpeeds: []
+  textAudios: []
+  textEffects: []
+  overWrites: []
+  sprites:
+  - {fileID: 1291079420, guid: 8c959dd99b1e439409cd169086594c4e, type: 3}
+  - {fileID: 1746972046, guid: 8d260225fffbe8d45a41cc3cc00ae090, type: 3}
+  animators:
+  - {fileID: 9100000, guid: a20366af3c8072a4c954affd3a14474a, type: 2}
+  - {fileID: 9100000, guid: f8e75286972c9bb45983f52fbd71b8af, type: 2}
+  animatorStateNames: []
+  diffColorWordIndex: []
+  diffColor: []

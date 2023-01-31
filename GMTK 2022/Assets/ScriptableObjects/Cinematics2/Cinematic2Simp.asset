@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f7d5186e9d93614ebe9d98e434783fa, type: 3}
+  m_Name: Cinematic2Simp
+  m_EditorClassIdentifier: 
+  sentences:
+  - Immortality is not a greatness or a privilige like I thought.
+  - "\rFor centuries, my life is getting boring. "
+  - "\rDisadvantages of being lucky..."
+  - It's time to find the crook who cursed me.
+  - WAIT FOR ME!!!
+  characterCounts: 0000000000000000000000000000000000000000
+  textWriteSpeeds:
+  - id: 4
+    textWriteSpeed: 0.4
+  textAudios: []
+  textEffects: []
+  overWrites: []
+  animators:
+  - {fileID: 9100000, guid: 0fca7c90eba7a8d48a2b5f5b22ba8cea, type: 2}
+  animatorStateNames:
+  - id: 0
+    animationStateName: mirror
+  - id: 1
+    animationStateName: sitting
+  - id: 2
+    animationStateName: sadButHappy
+  - id: 3
+    animationStateName: lastAnim1
+  - id: 4
+    animationStateName: lastAnim2
+  diffColorWordIndex: []
+  diffColor: []

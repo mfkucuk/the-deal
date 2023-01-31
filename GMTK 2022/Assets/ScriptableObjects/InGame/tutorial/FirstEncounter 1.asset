@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c7fff57784c40543af92896a487b503, type: 3}
+  m_Name: FirstEncounter 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - Hey, you there.
+  - Huh? Me?
+  - Yes, I'm talking to you.
+  - Who's talking?
+  - Over here.
+  - Whoa, you're a talking skull.
+  - Yeah, you're gonna end up like me if you're not smart.
+  - What do you mean?
+  - I was trying to revert my immortality too, just like you.
+  - How did you end up like this?
+  - Monsters around here are aware of people with immortality.
+  - So, they broke my arms and legs.
+  - And, I ended up with only my head.
+  - You need to be prepared to fight them.
+  - Oh, ok. Thanks for the advice old man.
+  - Who are you calling old?!
+  - Well then, see you around then.
+  - Or, I guess not.
+  characterCounts: 000000000100000000000000010000000000000001000000000000000100000000000000010000000000000000000000000000000000000001000000000000000100000001000000
+  textWriteSpeeds: []
+  textAudios: []
+  textEffects: []
+  overWrites: []
+  sprites:
+  - {fileID: 1291079420, guid: 8c959dd99b1e439409cd169086594c4e, type: 3}
+  - {fileID: 1746972046, guid: 8d260225fffbe8d45a41cc3cc00ae090, type: 3}
+  animators:
+  - {fileID: 9100000, guid: a20366af3c8072a4c954affd3a14474a, type: 2}
+  - {fileID: 9100000, guid: f8e75286972c9bb45983f52fbd71b8af, type: 2}
+  animatorStateNames: []
+  diffColorWordIndex: []
+  diffColor: []

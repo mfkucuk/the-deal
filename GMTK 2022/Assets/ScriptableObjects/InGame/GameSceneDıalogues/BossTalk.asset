@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c7fff57784c40543af92896a487b503, type: 3}
+  m_Name: BossTalk
+  m_EditorClassIdentifier: 
+  sentences:
+  - Halt!
+  - I'm looking for someone.
+  - Can you let me pass?
+  - No.
+  - That's it?
+  - Look, I am immortal.
+  - It's not like you can do anything to me.
+  - Immortal, huh?
+  - So you're one of those people.
+  - And you're looking for master, is that it?
+  - Master?
+  - Is that the guy who cursed me?
+  - SILENCE!!!
+  - I will not let you speak ill of my master.
+  - Prepare to get crushed!
+  characterCounts: 000000000100000001000000000000000100000001000000010000000000000000000000000000000100000001000000000000000000000000000000
+  textWriteSpeeds: []
+  textAudios:
+  - id: 0
+    textAudio: {fileID: 8300000, guid: 61324b5f83d049040bff8a975091883d, type: 3}
+  - id: 3
+    textAudio: {fileID: 8300000, guid: 61324b5f83d049040bff8a975091883d, type: 3}
+  - id: 7
+    textAudio: {fileID: 8300000, guid: 61324b5f83d049040bff8a975091883d, type: 3}
+  - id: 8
+    textAudio: {fileID: 8300000, guid: 61324b5f83d049040bff8a975091883d, type: 3}
+  - id: 9
+    textAudio: {fileID: 8300000, guid: 61324b5f83d049040bff8a975091883d, type: 3}
+  - id: 12
+    textAudio: {fileID: 8300000, guid: 61324b5f83d049040bff8a975091883d, type: 3}
+  - id: 13
+    textAudio: {fileID: 8300000, guid: 61324b5f83d049040bff8a975091883d, type: 3}
+  - id: 14
+    textAudio: {fileID: 8300000, guid: 61324b5f83d049040bff8a975091883d, type: 3}
+  textEffects:
+  - id: 0
+    textEffect: 6
+  - id: 3
+    textEffect: 6
+  - id: 7
+    textEffect: 6
+  - id: 8
+    textEffect: 6
+  - id: 9
+    textEffect: 6
+  - id: 12
+    textEffect: 6
+  - id: 13
+    textEffect: 6
+  - id: 14
+    textEffect: 6
+  overWrites: []
+  sprites:
+  - {fileID: -2090623668, guid: 0fbeee52b12d7674cb90db1bca3b072d, type: 3}
+  - {fileID: 1746972046, guid: 8d260225fffbe8d45a41cc3cc00ae090, type: 3}
+  animators:
+  - {fileID: 9100000, guid: c2e55453ecdc0c94194c0663ce5698d4, type: 2}
+  - {fileID: 9100000, guid: f8e75286972c9bb45983f52fbd71b8af, type: 2}
+  animatorStateNames: []
+  diffColorWordIndex: []
+  diffColor: []
